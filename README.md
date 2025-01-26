@@ -11,11 +11,15 @@ Poyiccot USB C Right Angle Adapter PD 240W, Right Angle USB C Adapter 40Gbps, 90
 
 YubiKey C Bio - FIDO Edition - this can be purchased for $95 at the following link: https://www.yubico.com/product/yubikey-bio-series/yubikey-c-bio/
 
+VELCRO Brand Extreme Lock Mounting Strips with Adhesive. Water and UV Resistant, Holds 15 lbs. 4 sets 3 x 1 Inch, Black. Powerful Attachment for Signage, Electronic Devices Indoors or Outdoors - this can be purchased for $6.97 at the following link: https://www.amazon.com/VELCRO-Brand-ALFA-LOK-Fasteners-Multidirectional/dp/B07FYZVBNR/ref=sr_1_1?crid=OA1GB7583ZL8&dib=eyJ2IjoiMSJ9.QieCE0WxvAcxz9y1kZJVAonSFhsY7pBV07Edsze4TQAgv19HyzW9AQnijbX3kDSBHChSj5wyd-_laazS7ziTE6V31vwi6HrKkewwEvF9TB691VEM7EsjF2-kh56PSRqBNzXWNTTb1S55vA9wPhQviG_UQS7MH7AIdVV6F2_r82x9NwfMrYOhyAWOjcnI57xj78qkLTUndU62FY2Q_PLKmTgu-p0ke2fa7OA7viO0nOY.405yZfjst5KSVmS4lAc55yJQCYL-N8JVzgsxM4b1ErA&dib_tag=se&keywords=velcro%2Boutdoor%2Bextreme%2Block&qid=1737911959&sprefix=velcro%2Boutdoor%2Bextreme%2Block%2Caps%2C118&sr=8-1&th=1
+ 
 You can use different YubiKeys with this set up, but I prefer the C Bio series personally; it's more compatible with my other devices due to the USB-C port and I like only having to use a fingerprint to access my devices.
 
 # Case
 
 The 3D-printed case is shown in this section. I simply have it on the most accessible side of my desk.
+
+![Image_2](https://github.com/user-attachments/assets/dd2a7c67-5f6e-42c9-842a-82bc16e864a3)
 
 ## Specifications & Material(s)
 Below you can find the printer and material used.
@@ -28,13 +32,14 @@ INLAND PLA 3D Printer Filament - 3D Printing PLA Filament 1.75mm, Dimensional Ac
 ### Software
  PrusaSlicer
 
-IMAGE
+![image](https://github.com/user-attachments/assets/f2f82253-fe65-4fad-910f-25885510eb41)
+
 
 #### Settings
   Layer Height: .2mm \
   Infill: 30% \
   Supports: Everywhere \
-  Estimated Printing Time: TBD
+  Estimated Printing Time: 1 hour and 55 minutes
 
 # Setup for Linux
 
@@ -44,11 +49,11 @@ I am using ZorinOS as my primary OS at the moment across all my devices. Since i
 
 This is specific to my key, but something similar will likely need to be done for other keys. I downloaded Yubico Authenticator through Flathub.
 
-![Image_3](https://github.com/user-attachments/assets/643e5d76-d40a-495e-b914-94fd497402d6)
+![Image_4](https://github.com/user-attachments/assets/643e5d76-d40a-495e-b914-94fd497402d6)
 
 You can use this to setup your fingerprints. Plug in your key, you will then see information and a place to add your fingerprints; do so and here are the fingers I use:
 
-![Image_4](https://github.com/user-attachments/assets/ba749d41-e8d5-4cd2-872b-adea1a6acdf6)
+![Image_5](https://github.com/user-attachments/assets/ba749d41-e8d5-4cd2-872b-adea1a6acdf6)
 
 
 Once you have set up your fingerprints, you can move on to the next section.
@@ -90,7 +95,7 @@ sudo nano /etc/pam.d/sudo
 ```bash
 auth       required   pam_u2f.so
 ```
-![Image_5](https://github.com/user-attachments/assets/bbb21e06-d45b-428d-9f2f-cf3fa8c7c086)
+![Image_6](https://github.com/user-attachments/assets/bbb21e06-d45b-428d-9f2f-cf3fa8c7c086)
 
 3. When done, press Ctrl+X, then Y, then Enter.
 
@@ -105,9 +110,12 @@ sudo nano /etc/pam.d/gdm-password
 ```bash
 auth       required   pam_u2f.so
 ```
-![Image_6](https://github.com/user-attachments/assets/588d736f-7472-4b7e-be56-709f95abad7f)
+![Image_7](https://github.com/user-attachments/assets/588d736f-7472-4b7e-be56-709f95abad7f)
 
 3. When done, press Ctrl+X, then Y, then Enter.
 
+# Tips
+
+I used some gorilla glue to attach the 10mm magnets to the slots.
 # Tips
 If you wish to allow for the option of either password or password + key, change "required" to "optional" in step 2 of Adding as a Requirement for Logging In. Please note that it will only require password if no key is inserted, but will prompt for fingerprint if key is inserted. This isn't really practical though.
