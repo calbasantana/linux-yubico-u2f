@@ -1,4 +1,4 @@
-IMAGE
+![Image_1](https://github.com/user-attachments/assets/31b4529a-aee6-4a91-a84c-dbc4814b778e)
 
 # Introduction
 I wanted to add another level of security to my computer, because, you know, why not? This makes it so that I am the only one who can log into my computer, regardless of who knows my password.
@@ -17,7 +17,7 @@ You can use different YubiKeys with this set up, but I prefer the C Bio series p
 
 # Case
 
-The 3D-printed case is shown in this section. I simply have it on the most accessible side of my desk.
+The 3D-printed case is shown in this section. I simply have it on the most accessible side of my desk (beneath the righthand side of it).
 
 ![Image_2](https://github.com/user-attachments/assets/dd2a7c67-5f6e-42c9-842a-82bc16e864a3)
 
@@ -32,7 +32,7 @@ INLAND PLA 3D Printer Filament - 3D Printing PLA Filament 1.75mm, Dimensional Ac
 ### Software
  PrusaSlicer
 
-![image](https://github.com/user-attachments/assets/f2f82253-fe65-4fad-910f-25885510eb41)
+![Image_3](https://github.com/user-attachments/assets/f2f82253-fe65-4fad-910f-25885510eb41)
 
 
 #### Settings
