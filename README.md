@@ -12,8 +12,10 @@ Poyiccot USB C Right Angle Adapter PD 240W, Right Angle USB C Adapter 40Gbps, 90
 YubiKey C Bio - FIDO Edition - this can be purchased for $95 at the following link: https://www.yubico.com/product/yubikey-bio-series/yubikey-c-bio/
 
 VELCRO Brand Extreme Lock Mounting Strips with Adhesive. Water and UV Resistant, Holds 15 lbs. 4 sets 3 x 1 Inch, Black. Powerful Attachment for Signage, Electronic Devices Indoors or Outdoors - this can be purchased for $6.97 at the following link: https://www.amazon.com/VELCRO-Brand-ALFA-LOK-Fasteners-Multidirectional/dp/B07FYZVBNR/ref=sr_1_1?crid=OA1GB7583ZL8&dib=eyJ2IjoiMSJ9.QieCE0WxvAcxz9y1kZJVAonSFhsY7pBV07Edsze4TQAgv19HyzW9AQnijbX3kDSBHChSj5wyd-_laazS7ziTE6V31vwi6HrKkewwEvF9TB691VEM7EsjF2-kh56PSRqBNzXWNTTb1S55vA9wPhQviG_UQS7MH7AIdVV6F2_r82x9NwfMrYOhyAWOjcnI57xj78qkLTUndU62FY2Q_PLKmTgu-p0ke2fa7OA7viO0nOY.405yZfjst5KSVmS4lAc55yJQCYL-N8JVzgsxM4b1ErA&dib_tag=se&keywords=velcro%2Boutdoor%2Bextreme%2Block&qid=1737911959&sprefix=velcro%2Boutdoor%2Bextreme%2Block%2Caps%2C118&sr=8-1&th=1
- 
-You can use different YubiKeys with this set up, but I prefer the C Bio series personally; it's more compatible with my other devices due to the USB-C port and I like only having to use a fingerprint to access my devices.
+
+DIYMAG 120Pcs Refrigerator Magnets 10x2mm Premium Brushed Nickel Small Round Cylinder Fridge Magnet, Perfect to use as Office Magnets, Dry Erase Board Magnetic pins, Whiteboard, Map Pins  - this can be purchased for $12.99 at the following link: https://www.amazon.com/DIYMAG-Refrigerator-Magnets-100-piece/dp/B0753ZPBLQ/ref=sr_1_15?crid=1LP6OMWHOW7J0&dib=eyJ2IjoiMSJ9.WlU1gPXNyLeoE60GeE-rIFVgLx09JrIzCqVNNmZI45Se5J-RxH5oeplSl2VZjbZazxosP3Ww3WEyXQRheL1tMhdbiS9NHFA3k4PDUAtjCQ_pDsDKOdLYM4CulMzqCWwsFtrzBy6IabptRBPHUnjV77nJ0TB0FTenl1IaVMa2_x4l9SJvljne80_YfM-Is8V8TxyEISlLSXDLJCjZRkrJcUHff_Wv2qCz67dz7HNRva4.WYhowoa9txxhU4kfoz_R9glKt7drWcm2iIcKx4Yotcc&dib_tag=se&keywords=10mm%2Bdiameter%2Bmagnets%2Bneodymium&qid=1737917543&sprefix=10mm%2Bdiameter%2Bmagnets%2Bneodynium%2Caps%2C114&sr=8-15&th=1
+
+You can use different YubiKeys with this set up, but I prefer the C Bio series personally; it's more compatible with my other devices due to the USB-C port and I like only having to use a fingerprint to access my devices. You can also use magnets you have available already, as I did here.
 
 # Case
 
@@ -122,3 +124,7 @@ auth       required   pam_u2f.so
 I used some gorilla glue to attach the 10mm magnets to the slots.
 # Tips
 If you wish to allow for the option of either password or password + key, change "required" to "optional" in step 2 of Adding as a Requirement for Logging In. Please note that it will only require password if no key is inserted, but will prompt for fingerprint if key is inserted. This isn't really practical though.
+
+I used hot glue to attach the magnets, but gorilla glue works pretty well too. I made sure they attracted when put in with the case.
+
+The fit for the USB C angled part is a bit tight, but tighter is better so it holds up to constant pushing. I also recommend maybe having a bit of filler on the other side, like some cardboard, wood, or PLA discards to prevent the USB-C facing forward from too much backward motion.
