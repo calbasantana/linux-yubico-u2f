@@ -28,6 +28,9 @@ The 3D-printed case is shown in this section. I simply have it on the most acces
 
 ## Specifications & Material(s)
 Below you can find the printer and material used.
+
+![image](https://github.com/user-attachments/assets/745c27a2-e1c1-4e25-8483-ed48dd09cdd9)
+
 ### 3D Printer
  Original Prusa Mini+
 ### Material(s)
