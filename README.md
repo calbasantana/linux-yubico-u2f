@@ -125,3 +125,5 @@ If you wish to allow for the option of either password or password + key, change
 I used hot glue to attach the magnets, but gorilla glue works pretty well too. I made sure they attracted when put in with the case.
 
 The fit for the USB C angled part is a bit tight, but tighter is better so it holds up to constant pushing. I also recommend maybe having a bit of filler on the other side, like some cardboard, wood, or PLA discards to prevent the USB-C facing forward from too much backward motion.
+
+When taking out the YubiKey, I usualy hold the right side of the cover. I would hot glue the cover or made it tighter, but I would want to be able to easily disassemble if needed.
