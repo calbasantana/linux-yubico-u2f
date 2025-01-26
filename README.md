@@ -1,4 +1,4 @@
-![Image_1](https://github.com/user-attachments/assets/31b4529a-aee6-4a91-a84c-dbc4814b778e)
+![Image_0](https://github.com/user-attachments/assets/1fd80f67-640a-42f5-bc25-c7b80e06774a)
 
 # Introduction
 I wanted to add another level of security to my computer, because, you know, why not? This makes it so that I am the only one who can log into my computer, regardless of who knows my password.
@@ -16,6 +16,9 @@ VELCRO Brand Extreme Lock Mounting Strips with Adhesive. Water and UV Resistant,
 You can use different YubiKeys with this set up, but I prefer the C Bio series personally; it's more compatible with my other devices due to the USB-C port and I like only having to use a fingerprint to access my devices.
 
 # Case
+
+![Image_1](https://github.com/user-attachments/assets/31b4529a-aee6-4a91-a84c-dbc4814b778e)
+
 
 The 3D-printed case is shown in this section. I simply have it on the most accessible side of my desk (beneath the righthand side of it).
 
