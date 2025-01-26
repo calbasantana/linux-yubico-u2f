@@ -120,9 +120,6 @@ auth       required   pam_u2f.so
 3. When done, press Ctrl+X, then Y, then Enter.
 
 # Tips
-
-I used some gorilla glue to attach the 10mm magnets to the slots.
-# Tips
 If you wish to allow for the option of either password or password + key, change "required" to "optional" in step 2 of Adding as a Requirement for Logging In. Please note that it will only require password if no key is inserted, but will prompt for fingerprint if key is inserted. This isn't really practical though.
 
 I used hot glue to attach the magnets, but gorilla glue works pretty well too. I made sure they attracted when put in with the case.
