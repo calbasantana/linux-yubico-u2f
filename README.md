@@ -5,15 +5,16 @@ I wanted to add another level of security to my computer, because, you know, why
 
 # Material(s)
 
-USB C Extension Cable 6 Feet, USB Type C Extender Cord USB 3.1(10Gbps) Male to Female Charging & Sync Compatible for MacBook Pro/Air, Nintendo Switch, Laptop, Tablet and Mobile Phone - this can be purchased for $7.99 at the following link: https://www.amazon.com/gp/product/B0CPM2PT13/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&th=1
+* [USB C Extension Cable ($7.99)](https://www.amazon.com/gp/product/B0CPM2PT13/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&th=1)
 
-Poyiccot USB C Right Angle Adapter PD 240W, Right Angle USB C Adapter 40Gbps, 90 Degree USB C Adapter Male to Female USB C L Shape Adapter with 8K@60Hz Video for iPad, MacBook,Thunderbolt 4/3, 2Pack - this can be purchased for $9.39 at the following link: https://www.amazon.com/gp/product/B0BRCNMRVK/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
+* [Right Angle USB C Adapter ($9.39)](https://www.amazon.com/gp/product/B0BRCNMRVK/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)
 
-YubiKey C Bio - FIDO Edition - this can be purchased for $95 at the following link: https://www.yubico.com/product/yubikey-bio-series/yubikey-c-bio/
+* [YubiKey C Bio - FIDO Edition ($95)](https://www.yubico.com/product/yubikey-bio-series/yubikey-c-bio/)
 
-VELCRO Brand Extreme Lock Mounting Strips with Adhesive. Water and UV Resistant, Holds 15 lbs. 4 sets 3 x 1 Inch, Black. Powerful Attachment for Signage, Electronic Devices Indoors or Outdoors - this can be purchased for $6.97 at the following link: https://www.amazon.com/VELCRO-Brand-ALFA-LOK-Fasteners-Multidirectional/dp/B07FYZVBNR/ref=sr_1_1?crid=OA1GB7583ZL8&dib=eyJ2IjoiMSJ9.QieCE0WxvAcxz9y1kZJVAonSFhsY7pBV07Edsze4TQAgv19HyzW9AQnijbX3kDSBHChSj5wyd-_laazS7ziTE6V31vwi6HrKkewwEvF9TB691VEM7EsjF2-kh56PSRqBNzXWNTTb1S55vA9wPhQviG_UQS7MH7AIdVV6F2_r82x9NwfMrYOhyAWOjcnI57xj78qkLTUndU62FY2Q_PLKmTgu-p0ke2fa7OA7viO0nOY.405yZfjst5KSVmS4lAc55yJQCYL-N8JVzgsxM4b1ErA&dib_tag=se&keywords=velcro%2Boutdoor%2Bextreme%2Block&qid=1737911959&sprefix=velcro%2Boutdoor%2Bextreme%2Block%2Caps%2C118&sr=8-1&th=1
+* [3 x 1 Inch Velcro Strips ($6.97)](https://www.amazon.com/VELCRO-Brand-ALFA-LOK-Fasteners-Multidirectional/dp/B07FYZVBNR/ref=sr_1_1?crid=OA1GB7583ZL8&dib=eyJ2IjoiMSJ9.QieCE0WxvAcxz9y1kZJVAonSFhsY7pBV07Edsze4TQAgv19HyzW9AQnijbX3kDSBHChSj5wyd-_laazS7ziTE6V31vwi6HrKkewwEvF9TB691VEM7EsjF2-kh56PSRqBNzXWNTTb1S55vA9wPhQviG_UQS7MH7AIdVV6F2_r82x9NwfMrYOhyAWOjcnI57xj78qkLTUndU62FY2Q_PLKmTgu-p0ke2fa7OA7viO0nOY.405yZfjst5KSVmS4lAc55yJQCYL-N8JVzgsxM4b1ErA&dib_tag=se&keywords=velcro%2Boutdoor%2Bextreme%2Block&qid=1737911959&sprefix=velcro%2Boutdoor%2Bextreme%2Block%2Caps%2C118&sr=8-1&th=1)
 
-DIYMAG 120Pcs Refrigerator Magnets 10x2mm Premium Brushed Nickel Small Round Cylinder Fridge Magnet, Perfect to use as Office Magnets, Dry Erase Board Magnetic pins, Whiteboard, Map Pins  - this can be purchased for $12.99 at the following link: https://www.amazon.com/DIYMAG-Refrigerator-Magnets-100-piece/dp/B0753ZPBLQ/ref=sr_1_15?crid=1LP6OMWHOW7J0&dib=eyJ2IjoiMSJ9.WlU1gPXNyLeoE60GeE-rIFVgLx09JrIzCqVNNmZI45Se5J-RxH5oeplSl2VZjbZazxosP3Ww3WEyXQRheL1tMhdbiS9NHFA3k4PDUAtjCQ_pDsDKOdLYM4CulMzqCWwsFtrzBy6IabptRBPHUnjV77nJ0TB0FTenl1IaVMa2_x4l9SJvljne80_YfM-Is8V8TxyEISlLSXDLJCjZRkrJcUHff_Wv2qCz67dz7HNRva4.WYhowoa9txxhU4kfoz_R9glKt7drWcm2iIcKx4Yotcc&dib_tag=se&keywords=10mm%2Bdiameter%2Bmagnets%2Bneodymium&qid=1737917543&sprefix=10mm%2Bdiameter%2Bmagnets%2Bneodynium%2Caps%2C114&sr=8-15&th=1
+* [10x2mm Magnets ($12.99)](https://www.amazon.com/DIYMAG-Refrigerator-Magnets-100-piece/dp/B0753ZPBLQ/ref=sr_1_15?crid=1LP6OMWHOW7J0&dib=eyJ2IjoiMSJ9.WlU1gPXNyLeoE60GeE-rIFVgLx09JrIzCqVNNmZI45Se5J-RxH5oeplSl2VZjbZazxosP3Ww3WEyXQRheL1tMhdbiS9NHFA3k4PDUAtjCQ_pDsDKOdLYM4CulMzqCWwsFtrzBy6IabptRBPHUnjV77nJ0TB0FTenl1IaVMa2_x4l9SJvljne80_YfM-Is8V8TxyEISlLSXDLJCjZRkrJcUHff_Wv2qCz67dz7HNRva4.WYhowoa9txxhU4kfoz_R9glKt7drWcm2iIcKx4Yotcc&dib_tag=se&keywords=10mm%2Bdiameter%2Bmagnets%2Bneodymium&qid=1737917543&sprefix=10mm%2Bdiameter%2Bmagnets%2Bneodynium%2Caps%2C114&sr=8-15&th=1
+) 
 
 You can use different YubiKeys with this set up, but I prefer the C Bio series personally; it's more compatible with my other devices due to the USB-C port and I like only having to use a fingerprint to access my devices. You can also use magnets you have available already, as I did here.
 
@@ -34,8 +35,8 @@ Below you can find the printer and material used.
 ### 3D Printer
  Original Prusa Mini+
 ### Material(s)
-INLAND PLA 3D Printer Filament - 3D Printing PLA Filament 1.75mm, Dimensional Accuracy +/- 0.03mm - 1kg Cardboard Spool (2.2 lbs), Marble PLA
- – this can be purchased for $29.99 at the following link: https://www.amazon.com/Inland-1-75mm-Marble-Printer-Filament/dp/B08M4733VV/ref=sr_1_3?crid=RY0788Z9D3XL&dib=eyJ2IjoiMSJ9.GvDUjGeacdaThMoKB2T31ewH9i3JmlLfhoDydChHBm-pD7cXPBEVjrKUewiIA1ZLE0_09V1n0PRn75b7hFqiDw4M0-lnl6NiRKwU4Bay_UQglrp8aVfnSITNRxxnTlk00zi7jk9JMRR5mzHilVguVNlu22jSBhxaIA2Mgu28qpM98QySMqZ0onKGj8rI2Ae99hyhSl7nTwlWuBccngRzfk5tlxoLLDb3Ck8adz-NTaQ.5vcyT03Wl1FkUx1DENvwhSOMvdqbl_TQCjXICAq7kSI&dib_tag=se&keywords=pla+filament+inland+marble&qid=1735843633&sprefix=pla+filament+inland+marble%2Caps%2C87&sr=8-3
+
+* [INLAND Marble PLA Filament ($29.99)](https://www.amazon.com/Inland-1-75mm-Marble-Printer-Filament/dp/B08M4733VV/ref=sr_1_3?crid=RY0788Z9D3XL&dib=eyJ2IjoiMSJ9.GvDUjGeacdaThMoKB2T31ewH9i3JmlLfhoDydChHBm-pD7cXPBEVjrKUewiIA1ZLE0_09V1n0PRn75b7hFqiDw4M0-lnl6NiRKwU4Bay_UQglrp8aVfnSITNRxxnTlk00zi7jk9JMRR5mzHilVguVNlu22jSBhxaIA2Mgu28qpM98QySMqZ0onKGj8rI2Ae99hyhSl7nTwlWuBccngRzfk5tlxoLLDb3Ck8adz-NTaQ.5vcyT03Wl1FkUx1DENvwhSOMvdqbl_TQCjXICAq7kSI&dib_tag=se&keywords=pla+filament+inland+marble&qid=1735843633&sprefix=pla+filament+inland+marble%2Caps%2C87&sr=8-3) 
 
 ### Software
  PrusaSlicer
